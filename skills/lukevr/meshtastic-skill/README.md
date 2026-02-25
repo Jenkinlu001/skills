@@ -163,6 +163,7 @@ Fields: `timestamp|channel|sender|distance|text`
 
 | Device | Connection | Notes |
 |--------|------------|-------|
+| Seeed Wio Tracker L1 | USB | Recommended, reliable |
 | RAK4631 | USB | Recommended, reliable |
 | T-Beam | USB | Built-in GPS |
 | Heltec V3 | USB | Budget-friendly |
